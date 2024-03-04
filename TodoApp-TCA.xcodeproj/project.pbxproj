@@ -11,6 +11,7 @@
 		65EF669B2B95F35900288C03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65EF669A2B95F35900288C03 /* ContentView.swift */; };
 		65EF669D2B95F35B00288C03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65EF669C2B95F35B00288C03 /* Assets.xcassets */; };
 		65EF66A02B95F35B00288C03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65EF669F2B95F35B00288C03 /* Preview Assets.xcassets */; };
+		65EF66A72B95F53400288C03 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65EF66A62B95F53400288C03 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		65EF669A2B95F35900288C03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65EF669C2B95F35B00288C03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65EF669F2B95F35B00288C03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65EF66A62B95F53400288C03 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				65EF66982B95F35900288C03 /* TodoApp_TCAApp.swift */,
 				65EF669A2B95F35900288C03 /* ContentView.swift */,
 				65EF669C2B95F35B00288C03 /* Assets.xcassets */,
+				65EF66A62B95F53400288C03 /* GoogleService-Info.plist */,
 				65EF669E2B95F35B00288C03 /* Preview Content */,
 			);
 			path = "TodoApp-TCA";
@@ -127,6 +130,7 @@
 			files = (
 				65EF66A02B95F35B00288C03 /* Preview Assets.xcassets in Resources */,
 				65EF669D2B95F35B00288C03 /* Assets.xcassets in Resources */,
+				65EF66A72B95F53400288C03 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
